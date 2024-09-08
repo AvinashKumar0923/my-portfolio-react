@@ -1,0 +1,29 @@
+[
+  {
+    "role": "5-Star HackerRank Coder",
+    "organisation": "HackerRank",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "experiences": ["Solved 100+ Problems"],
+    "imageSrc": "history/history1.png"
+  },
+  {
+    "role": "UX Learner",
+    "organisation": "Coursera",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Completed the UX Design Course by Google on Couresera Platform."],
+    "imageSrc": "history/history2.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "University-level",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on Fronted Web sites",
+      "Learnt technologies like react and bootstrap."
+    ],
+    "imageSrc": "history/history3.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ElectroMega",
+    "imageSrc": "projects/project1.png",
+    "description": "An E-Commerce Electronics-Shopping Website",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "TheTwilightEvents",
+    "imageSrc": "projects/project2.png",
+    "description": "An Event Organizer Website. It features customizable Events.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Calculator-Web-App",
+    "imageSrc": "projects/project3.png",
+    "description": "A simple calculator for simple mathematical operations.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
